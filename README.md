@@ -10,9 +10,7 @@
 
 ワークショップで使用するGoogle Colabratoryのファイルがあります。
 
-`SIR.ipynb`というファイルを開いてみてください。
-
-以下からも開けます。
+以下から開けます。
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/iwanaminami/tokuronX2021/blob/main/SIR.ipynb)
 
