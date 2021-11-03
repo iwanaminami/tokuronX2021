@@ -19,6 +19,8 @@
 
 #### Googleアカウント
 
+Google Colabratoryで実行するためには自身のGoogleアカウントでのログインが必要です。
+
 Googleのサービス（GmailやYouTubeなど）にログインしているなら持っているはず。
 
 持っていなければ以下から作成できます。
