@@ -24,3 +24,9 @@ Googleのサービス（GmailやYouTubeなど）にログインしているな�
 持っていなければ以下から作成できます。
 
 [https://www.google.com/accounts/NewAccount?hl=ja](https://www.google.com/accounts/NewAccount?hl=ja)
+
+## レポート
+
+以下のURLからフォームに回答する形でレポートを提出
+
+https://forms.gle/SE1a6ZjDbjqajKfL8
