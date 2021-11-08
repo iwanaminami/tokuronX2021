@@ -38,6 +38,8 @@ Googleのサービス（GmailやYouTubeなど）にログインしているな�
 
 ## レポート
 
+締め切り：2021年11月16日(火)
+
 以下のURLからフォームに回答する形でレポートを提出
 
 https://forms.gle/SE1a6ZjDbjqajKfL8
