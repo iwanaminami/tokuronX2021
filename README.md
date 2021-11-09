@@ -21,7 +21,8 @@ https://app.sli.do/event/urijfjia
 
 ワークショップで使用するGoogle Colabratoryのファイルがあります。
 
-以下から開けます。
+以下から開けます。  
+（2021年11月9日アップデート）
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/iwanaminami/tokuronX2021/blob/main/SIR_update.ipynb)
 
